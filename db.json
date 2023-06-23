@@ -1,0 +1,34 @@
+{
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Chicken / Manok",
+      "price": 25.0,
+      "unit": "grams"
+    },
+    {
+      "id": 2,
+      "name": "Egg / Itlog",
+      "price": 15.0,
+      "unit": "piece"
+    },
+    {
+      "id": 3,
+      "name": "Salt / Asin",
+      "price": 1.2,
+      "unit": "grams"
+    },
+    {
+      "id": 4,
+      "name": "Pepper / Paminta",
+      "price": 2.5,
+      "unit": "grams"
+    },
+    {
+      "id": 5,
+      "name": "Soy Sauce / Toyo",
+      "price": 3.7,
+      "unit": "ml"
+    }
+  ]
+}
