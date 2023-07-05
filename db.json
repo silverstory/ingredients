@@ -20,7 +20,7 @@
     },
     {
       "id": 4,
-      "name": "Pepper / Paminta",
+      "name": "Ground pepper / Pamintang durog",
       "price": 2.5,
       "unit": "grams"
     },
@@ -28,6 +28,36 @@
       "id": 5,
       "name": "Soy Sauce / Toyo",
       "price": 3.7,
+      "unit": "ml"
+    },
+    {
+      "id": 6,
+      "name": "Pork / Baboy",
+      "price": 35.0,
+      "unit": "grams"
+    },
+    {
+      "id": 7,
+      "name": "Philippine Lime / Kalamansi",
+      "price": 5.0,
+      "unit": "piece"
+    },
+    {
+      "id": 8,
+      "name": "Milkfish / Bangus",
+      "price": 18.7,
+      "unit": "grams"
+    },
+    {
+      "id": 9,
+      "name": "Pepper whole / Paminta buo",
+      "price": 2.5,
+      "unit": "grams"
+    },
+    {
+      "id": 10,
+      "name": "Vinegar / Suka",
+      "price": 3.5,
       "unit": "ml"
     }
   ]
