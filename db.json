@@ -1,5 +1,4 @@
-{
-  "ingredients": [
+[
     {
         "id": 55,
         "name": "Sardines (Hot) in Tomato Sauce",
@@ -371,6 +370,5 @@
         "name": "SL0524 Walnuts",
         "unit": "pack",
         "price": 0
-    }
+    },
 ]
-}
